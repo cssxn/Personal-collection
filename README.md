@@ -1,5 +1,9 @@
 # reverse-skills
 
+## Linux things
+
+- [Linux终端录制工具 Asciinema](https://asciinema.org)
+
 ## Security Mitigations
 
 ### Windows10 Control Flow Guard
