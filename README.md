@@ -27,3 +27,8 @@
 
 - [Defrag-Tools-161-Troubleshooting-a-Slow-PC](https://channel9.msdn.com/Shows/Defrag-Tools/Defrag-Tools-161-Troubleshooting-a-Slow-PC)
 
+### Kernel Debugging
+
+- [Windows Debugging and Troubleshooting](https://www.youtube.com/watch?v=2rGS5fYGtJ4)
+- [Kernel-Debugger](https://newsmidnight.com/tag/Kernel-Debugger)
+
