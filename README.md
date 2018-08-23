@@ -6,6 +6,11 @@
 - [ReverseTools](https://www.novirusthanks.org/products/)
 
 
+## SMBv2 协议的一些文章
+
+- [SMB2 Quick Guide](https://community.tribelab.com/mod/page/view.php?id=608)
+- [2.1.1 Protocol Stack](https://msdn.microsoft.com/en-us/library/dd303117.aspx)
+
 
 ## Linux things
 
