@@ -1,5 +1,12 @@
 # reverse-skills
 
+## Websites
+- [webeadver 资源下载](https://www.webeaver.com/)
+- [在线正则](https://regexr.com/)
+- [ReverseTools](https://www.novirusthanks.org/products/)
+
+
+
 ## Linux things
 
 - [Linux终端录制工具 Asciinema](https://asciinema.org)
