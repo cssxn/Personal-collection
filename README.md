@@ -5,6 +5,12 @@
 - [在线正则](https://regexr.com/)
 - [ReverseTools](https://www.novirusthanks.org/products/)
 
+## Free Reverse Course
+- [opensecuritytraining](http://opensecuritytraining.info/)
+- [samsclass](https://samsclass.info)
+
+
+
 
 ## SMBv2 协议的一些文章
 
