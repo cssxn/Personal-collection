@@ -5,9 +5,10 @@
 - [在线正则](https://regexr.com/)
 - [ReverseTools](https://www.novirusthanks.org/products/)
 
-## Free Reverse Course
+## Malware Analysis Tutorials
 - [opensecuritytraining](http://opensecuritytraining.info/)
 - [samsclass](https://samsclass.info)
+- [a Reverse Engineering Approach](https://fumalwareanalysis.blogspot.com/p/malware-analysis-tutorials-reverse.html)
 
 
 
