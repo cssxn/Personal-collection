@@ -9,6 +9,7 @@
 - [opensecuritytraining](http://opensecuritytraining.info/)
 - [samsclass](https://samsclass.info)
 - [a Reverse Engineering Approach](https://fumalwareanalysis.blogspot.com/p/malware-analysis-tutorials-reverse.html)
+- [CS7038-Malware-Analysis](http://class.malware.re)
 
 
 
