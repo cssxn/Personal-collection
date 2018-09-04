@@ -1,5 +1,13 @@
 # reverse-skills
 
+## Front-end
+
+- [使用React、Node.js、MongoDB、Socket.IO开发一个角色投票应用](https://www.kancloud.cn/kancloud/create-voting-app/63976)
+
+## Articles
+
+- [利用事物机制,创建无文件进程](https://hshrzd.wordpress.com/2017/12/18/process-doppelganging-a-new-way-to-impersonate-a-process/)
+
 ## Websites
 - [webeadver 资源下载](https://www.webeaver.com/)
 - [在线正则](https://regexr.com/)
