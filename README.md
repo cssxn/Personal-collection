@@ -9,11 +9,27 @@
 - [利用事物机制,创建无文件进程](https://hshrzd.wordpress.com/2017/12/18/process-doppelganging-a-new-way-to-impersonate-a-process/)
 - [https://cyber.wtf/(https://cyber.wtf/)
 
+## Code
+
+- [Codelf变量起名插件](https://unbug.github.io/codelf/)
+
+## Old Apps
+
+- [各版本IE下载](https://www.itechtics.com/download-internet-explorer-all-versions/)
+
+
 
 ## Websites
 - [webeadver 资源下载](https://www.webeaver.com/)
 - [在线正则](https://regexr.com/)
 - [ReverseTools](https://www.novirusthanks.org/products/)
+- [packettotal 流量分析](https://packettotal.com/)
+
+
+### Malware Sample Download
+- [virusshare](https://virusshare.com)
+- [malshare](https://malshare.com/)
+
 
 ## vulnerability
 - [vulnhub](https://www.vulnhub.com/resources//)
