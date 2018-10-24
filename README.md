@@ -1,5 +1,8 @@
 # Must Learn Skills
 
+## Linux Programming
+- [Makefile 写法](https://www.youtube.com/watch?v=E1_uuFWibuM)
+
 ## Front-end
 
 - [使用React、Node.js、MongoDB、Socket.IO开发一个角色投票应用](https://www.kancloud.cn/kancloud/create-voting-app/63976)
