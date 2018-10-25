@@ -3,6 +3,9 @@
 ## Linux Programming
 - [Makefile 写法](https://www.youtube.com/watch?v=E1_uuFWibuM)
 
+- [Git经典工作流教程](https://www.youtube.com/watch?v=HVsySz-h9r4)
+
+
 ## Front-end
 
 - [使用React、Node.js、MongoDB、Socket.IO开发一个角色投票应用](https://www.kancloud.cn/kancloud/create-voting-app/63976)
