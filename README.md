@@ -4,7 +4,7 @@
 - [Makefile 写法](https://www.youtube.com/watch?v=E1_uuFWibuM)
 
 - [Git经典工作流教程](https://www.youtube.com/watch?v=HVsySz-h9r4)
--[a-successful-git-branching-model](https://nvie.com/posts/a-successful-git-branching-model/)
+- [a-successful-git-branching-model](https://nvie.com/posts/a-successful-git-branching-model/)
 
 
 ## Front-end
