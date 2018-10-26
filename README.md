@@ -6,6 +6,13 @@
 - [Git经典工作流教程](https://www.youtube.com/watch?v=HVsySz-h9r4)
 - [a-successful-git-branching-model](https://nvie.com/posts/a-successful-git-branching-model/)
 
+## Plugins
+- [trainings-for-cybersecurity-specialists](https://www.enisa.europa.eu/topics/trainings-for-cybersecurity-specialists/online-training-material/technical-operational)
+
+- [OllyDbg_Extensions](http://www.woodmann.com/collaborative/tools/index.php/Category:OllyDbg_Extensions)
+- [OllyDbg_Plugins](http://www.openrce.org/downloads/browse/OllyDbg_Plugins)
+
+- [https://www.techbliss.org/](https://www.techbliss.org/)
 
 ## Front-end
 
