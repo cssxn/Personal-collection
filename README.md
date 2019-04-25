@@ -56,7 +56,7 @@
 - [CS7038-Malware-Analysis](http://class.malware.re)
 
 ### OLE File Analysis & oledump.py Tools Tutorials
--[PDF documents & URLs: video](https://youtu.be/aikgbbbK5co)
+ https://youtu.be/aikgbbbK5co  PDF documents & URLs: video
 https://isc.sans.edu/forums/diary/Peeking+into+Excel+files/23235/
 https://isc.sans.edu/forums/diary/Peeking+into+Excel+files/23235/
 https://isc.sans.edu/forums/diary/Malicious+VBA+Office+Document+Without+Source+Code/24870/
