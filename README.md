@@ -1,5 +1,6 @@
 # Must Learn Skills
 
+
 ## Linux Programming
 - [Makefile 写法](https://www.youtube.com/watch?v=E1_uuFWibuM)
 
@@ -53,6 +54,32 @@
 - [samsclass](https://samsclass.info)
 - [a Reverse Engineering Approach](https://fumalwareanalysis.blogspot.com/p/malware-analysis-tutorials-reverse.html)
 - [CS7038-Malware-Analysis](http://class.malware.re)
+
+### OLE File Analysis & oledump.py Tools Tutorials
+-[PDF documents & URLs: video](https://youtu.be/aikgbbbK5co)
+https://isc.sans.edu/forums/diary/Peeking+into+Excel+files/23235/
+https://isc.sans.edu/forums/diary/Peeking+into+Excel+files/23235/
+https://isc.sans.edu/forums/diary/Malicious+VBA+Office+Document+Without+Source+Code/24870/
+https://isc.sans.edu/forums/diary/rar+Files+and+ACE+Exploit+CVE201820250/24864/
+https://isc.sans.edu/forums/diary/Analysis+of+PDFs+Created+with+OpenOfficeLibreOffice/24798/
+https://isc.sans.edu/forums/diary/Analyzing+UDF+Files+with+Python/24860/
+https://isc.sans.edu/forums/diary/Malware+Sample+Delivered+Through+UDF+Image/24854/
+https://isc.sans.edu/forums/diary/Maldoc+Analysis+of+the+Weekend+by+a+Reader/24792/
+https://isc.sans.edu/forums/diary/VelvetSweatshop+Maldocs+Shellcode+Analysis/24776/
+https://isc.sans.edu/forums/diary/VelvetSweatshop+Maldocs/24772/
+https://isc.sans.edu/forums/diary/Video+Maldoc+Analysis+Excel+40+Macro/24752/
+https://isc.sans.edu/forums/diary/Maldoc+Excel+40+Macros/24750/
+https://isc.sans.edu/forums/diary/Malicious+HTA+Analysis+by+a+Reader/24726/
+https://isc.sans.edu/forums/diary/Suspicious+PDF+Connecting+to+a+Remote+SMB+Share/24646/
+https://isc.sans.edu/forums/diary/Video+Maldoc+Analysis+of+the+Weekend/24628/
+https://isc.sans.edu/forums/diary/Maldoc+Analysis+of+the+Weekend/24626/
+https://isc.sans.edu/forums/diary/Mitigations+against+Mimikatz+Style+Attacks/24612/
+https://isc.sans.edu/forums/diary/Maldoc+with+Nonfunctional+Shellcode/24478/
+https://isc.sans.edu/forums/diary/Video+DeDOSfuscation+Example/24466/
+https://isc.sans.edu/forums/diary/Password+Protected+ZIP+with+Maldoc/24426/
+https://isc.sans.edu/forums/diary/DeDOSfuscation+Example/24420/
+https://isc.sans.edu/forums/diary/Reader+Malware+Submission+MHT+File+Inside+a+ZIP+File/24392/
+https://isc.sans.edu/forums/diary/Word+maldoc+yet+another+place+to+hide+a+command/24370/
 
 
 
